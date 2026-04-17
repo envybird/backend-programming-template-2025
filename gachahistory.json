@@ -1,0 +1,5 @@
+{
+  "userId": "String",
+  "prizeWon": "String or null",
+  "createdAt": "ISODate"
+}
